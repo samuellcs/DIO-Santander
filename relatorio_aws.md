@@ -2,7 +2,7 @@
 
 Data: 2025-12-01  
 Empresa: Abstergo Industries  
-Responsável: DaviéGay  
+Responsável: Samuel Lucas  
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por DaviéGay.  
@@ -39,4 +39,4 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 - Manual interno de uso dos serviços  
 
 Assinatura do Responsável pelo Projeto:  
-**DaviéGay**
+**Samuel Lucas**
