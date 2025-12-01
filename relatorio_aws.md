@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: Samuel Lucas  
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por DaviéGay.  
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Samuel Lucas.  
 O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
